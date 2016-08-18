@@ -1,1 +1,3 @@
 .socrata_app_token
+__pycache__/
+ad-hoc/
