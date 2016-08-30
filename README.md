@@ -1,6 +1,8 @@
 # Aha!, the Ad Hoc Analysis Tool for San Francisco Public Data
 
-This repo contains code related to the [Aha!, the Ad Hoc Analysis Tool for San Francisco Public Data](https://docs.google.com/document/d/1qmJKof-BGCCOBcnxiXiC_MyTdeFm8By8sYpwuVWjx4s/edit#).
+This repo contains code related to the [Aha!](https://docs.google.com/document/d/1qmJKof-BGCCOBcnxiXiC_MyTdeFm8By8sYpwuVWjx4s/edit#), the Ad Hoc Analysis Tool for San Francisco Public Data.
+
+Aha! reflects the feelings of discovery users achieve when making new insights, and also happens to be an acronym for "**A**d **H**oc **A**nalysis".
 
 Our goal is to facilitate exploratory analysis of San Francisco city data for technical and non-technical citizens alike.
 
